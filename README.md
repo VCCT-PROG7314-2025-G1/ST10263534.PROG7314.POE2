@@ -4,6 +4,9 @@ Marley Maps is an Android app built for the PROG7314 Portfolio of Evidence.
 It helps users find nearby cannabis dispensaries and interact with them via reviews, directions, and calls, while also demonstrating advanced Android features such as SSO, offline support, notifications, and automated testing.
 
 ---
+youtube video link:
+
+https://youtube.com/shorts/eDUZ_KLLM9E
 
 ## 🎯 Project Goals
 
